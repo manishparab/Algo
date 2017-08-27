@@ -8,6 +8,7 @@ var sortedArrayToBST = function(nums) {
 };
 
 
+// keep finding the mid 
 function GenerateTree(nums,start,end)
 {
 
